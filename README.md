@@ -22,13 +22,13 @@ For this tutorial you will need the following:
   at https://thoughtspot.com/trial?tsref=dev=stepbystep.
 * A code editor for editing the Javascript code. The examples will
   use [Visual Studio Code](https://code.visualstudio.com/), a free editor that works on many operating systems.
-* [NodeJS](https://nodejs.org/) and [Node Package Manager (NPS)](https://www.npmjs.com/) to install and run code.
+* [Node.js](https://nodejs.org/) and [Node Package Manager (NPS)](https://www.npmjs.com/) to install and run code.
 * (Optionally) [Git](https://www.git-scm.com/downloads) command line. Git isn't required, but is recommended. And it
   comes pre-installed on macOS and Linux.
 * A basic understanding of ThoughtSpot Embedding and web development with HTML, CSS, and Javascript.
 
-This tutorial uses [Svelte](https://svelte.dev/) and [SvelteKit](https://kit.svelte.dev/)  It's not important to
-understand this framework to complete the course. All the steps and files to modify will be described as we proceed
+This tutorial uses [React](https://react.dev/) and [Next.js](https://nextjs.org//)  It's not important to
+understand this framework to complete the course, but it does help. All the steps and files to modify will be described as we proceed
 with the course.
 
 ## Lessons
